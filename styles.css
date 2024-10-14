@@ -1,0 +1,56 @@
+body{
+background-image: url("./img/fondo.jpg");
+
+width: 100%;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.titulo{
+position: absolute;
+    margin-left: 600px;
+    color: green;
+    background-color: rgba(240, 255, 211, 0.308);}
+
+
+.nou{
+position: absolute;
+margin-top: 150px;
+margin-left: 150px;
+background-color: #0a7a14;
+   font-weight: bold;
+   font-size: 8pt;
+   padding:  100px;
+   border-radius: 200px;
+
+}
+
+.ARAJUGA{
+
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 150px;
+    background-color: #1ddd2d;
+       font-weight: bold;
+       font-size: 8pt;
+       padding:  85px;
+       border-radius: 500px;
+    
+
+
+}
+
+.ARAJ{
+
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 700px; 
+    background-color: #1ddd2d;
+       font-weight: bold;
+       font-size: 8pt;
+       padding:  270px;
+       border-radius: 100px;
+        padding-left: 70px;
+          padding-right: 70px;
+
+}
